@@ -1,0 +1,13 @@
+name = "HighOrderVisualization"
+uuid = "73bd6cbf-e36d-484e-8397-71db70b7e23f"
+authors = ["Jesse Chan"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
